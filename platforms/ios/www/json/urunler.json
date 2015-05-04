@@ -1,0 +1,38 @@
+{
+   "data":[
+      {
+         "_id":"1",
+         "urunGrubu":"kollektörler",
+         "icerik":[
+            {
+               "dosyaAdi":"Wunder ANP 1808",
+               "dosyaLinki":"http://solimpeks.com.tr/wp-content/uploads/wunderanpkollektor.pdf"
+            },
+            {
+               "dosyaAdi":"Wunder ANP 2510",
+               "dosyaLinki":"http://solimpeks.com.tr/wp-content/uploads/wunderanpkollektor.pdf"
+            }
+         ]
+      },
+      {
+         "_id":"2",
+         "urunGrubu":"PV-T Hibrit Kollektörler",
+         "icerik":[
+            {
+               "dosyaAdi":"PV-T Hibrit Kollektörler",
+               "dosyaLinki":"http://solimpeks.com.tr/wp-content/uploads/pvthibritkollektor.pdf"
+            }
+         ]
+      },
+      {
+         "_id":"3",
+         "urunGrubu":"Termosifonik Sistemler",
+         "icerik":[
+            {
+               "dosyaAdi":"ELITE",
+               "dosyaLinki":"http://solimpeks.com.tr/wp-content/uploads/elite.pdf"
+            }
+         ]
+      }
+   ]
+}

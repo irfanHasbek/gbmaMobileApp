@@ -1,0 +1,88 @@
+{
+    "data":[
+      {
+         "_id":"1",
+         "dokumanTuru":"Fotovolvatik Sistem",
+         "icerik":[
+            {
+               "dosyaAdi":"LORENTZ PS 9k2 – PS 15k2 – PS 21k2 – PS 25k2",
+               "dosyaLinki":"http://solimpeks.com.tr/wp-content/uploads/LORENTZ-PS-9k2-PS-15k2-PS-21k2-PS-25k2.pdf"
+            },
+            {
+               "dosyaAdi":"CANADIAN SOLAR PANEL 250W",
+               "dosyaLinki":"http://solimpeks.com.tr/wp-content/uploads/CANADIAN-SOLAR-PANEL-250W.pdf"
+            },
+            {
+               "dosyaAdi":"FRONIUS SYMO 20-M",
+               "dosyaLinki":"http://solimpeks.com.tr/wp-content/uploads/FRONIUS-SYMO-20-M.pdf"
+            }
+         ]
+      },
+      {
+         "_id":"2",
+         "dokumanTuru":"Montaj Şemaları",
+         "icerik":[
+            {
+               "dosyaAdi":"Solimpeks Solitherma Isı Pompası Montaj Şeması (SI-1001)",
+               "dosyaLinki":"http://solimpeks.com.tr/wp-content/uploads/SI-1001.pdf"
+            },
+            {
+               "dosyaAdi":"Solimpeks Solitherma Isı Pompası Montaj Şeması (SI-1002)",
+               "dosyaLinki":"http://solimpeks.com.tr/wp-content/uploads/SI-1002.pdf"
+            },
+            {
+               "dosyaAdi":"Solimpeks Solitherma Isı Pompası Montaj Şeması (SI-2001)",
+               "dosyaLinki":"http://solimpeks.com.tr/wp-content/uploads/SI-2001.pdf"
+            },
+            {
+               "dosyaAdi":"Solimpeks Solitherma Isı Pompası Montaj Şeması (SI-2002)",
+               "dosyaLinki":"http://solimpeks.com.tr/wp-content/uploads/SI-2002.pdf"
+            }
+         ]
+      },
+      {
+         "_id":"3",
+         "dokumanTuru":"Teknik Çizimler",
+         "icerik":[
+            {
+               "dosyaAdi":"MDD-000 DEPO. DİK. SOLİBUFFER 300",
+               "dosyaLinki":"http://solimpeks.com.tr/wp-content/uploads/MDD-000-DEPO-D%C4%B0K-SOL%C4%B0BUFFER-300.pdf"
+            },
+            {
+               "dosyaAdi":"MDD-000 DEPO. DİK. SOLİKOMBİ 300",
+               "dosyaLinki":"http://solimpeks.com.tr/wp-content/uploads/MDD-000-DEPO-D%C4%B0K-SOL%C4%B0KOMB%C4%B0-300.pdf"
+            },
+            {
+               "dosyaAdi":"MDD-001 DEPO. DİK. SOLİTANK 200 REV01",
+               "dosyaLinki":"http://solimpeks.com.tr/wp-content/uploads/MDD-001-DEPO-D%C4%B0K-SOL%C4%B0TANK-200-REV01.pdf"
+            },
+            {
+               "dosyaAdi":"MDD-002 DEPO. DİK. SOLİTANK 300 REV01",
+               "dosyaLinki":"http://solimpeks.com.tr/wp-content/uploads/MDD-002-DEPO-D%C4%B0K-SOL%C4%B0TANK-300-REV01.pdf"
+            }
+         ]
+      },
+      {
+         "_id":"4",
+         "dokumanTuru":"Kullanım Klavuzları",
+         "icerik":[
+            {
+               "dosyaAdi":"ECO 300D Paket sistemler kurulum ve kullanım klavuzu",
+               "dosyaLinki":"http://solimpeks.com.tr/wp-content/uploads/ECO-300D-Paket-sistemler-kurulum-ve-kullan%C4%B1m-klavuzu.pdf"
+            },
+            {
+               "dosyaAdi":"PRO-ELITE 200D Paket sistemler kurulum ve kullanım klavuzu",
+               "dosyaLinki":"http://solimpeks.com.tr/wp-content/uploads/PRO-ELITE-200D-Paket-sistemler-kurulum-ve-kullan%C4%B1m-klavuzu.pdf"
+            },
+            {
+               "dosyaAdi":"PRO-ELITE 300D Paket sistemler kurulum ve kullanım klavuzu",
+               "dosyaLinki":"http://solimpeks.com.tr/wp-content/uploads/PRO-ELITE-300D-Paket-sistemler-kurulum-ve-kullan%C4%B1m-klavuzu.pdf"
+            },
+            {
+               "dosyaAdi":"WUNDER – Pvt çatı üstü kurulum montaj klavuzu",
+               "dosyaLinki":"http://solimpeks.com.tr/wp-content/uploads/WUNDER-Pvt-%C3%A7at%C4%B1-%C3%BCst%C3%BC-kurulum-montaj-klavuzu.pdf"
+            }
+         ]
+      }
+ ]
+}
