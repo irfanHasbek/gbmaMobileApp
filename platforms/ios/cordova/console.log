@@ -1,0 +1,16 @@
+2015-05-04 16:30:11.100 solimpex[33347:1088540] Apache Cordova native platform version 3.7.0 is starting.
+2015-05-04 16:30:11.104 solimpex[33347:1088540] Multi-tasking -> Device: YES, App: YES
+2015-05-04 16:30:11.116 solimpex[33347:1088540] Unlimited access to network resources
+2015-05-04 16:30:11.124 solimpex[33347:1088540] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-04 16:30:11.706 solimpex[33347:1088540] Resetting plugins due to page load.
+2015-05-04 16:30:11.893 solimpex[33347:1088540] Finished load of: file:///Users/irfanhasbek/Library/Developer/CoreSimulator/Devices/9A0E59E7-AF4D-406E-9778-519F29915EF3/data/Containers/Bundle/Application/D372E772-CD83-49FD-BBB3-613412C66E0B/solimpex.app/www/index.html
+2015-05-04 16:30:12.786 solimpex[33347:1088540] Resetting plugins due to page load.
+2015-05-04 16:30:12.899 solimpex[33347:1088540] Finished load of: file:///Users/irfanhasbek/Library/Developer/CoreSimulator/Devices/9A0E59E7-AF4D-406E-9778-519F29915EF3/data/Containers/Bundle/Application/D372E772-CD83-49FD-BBB3-613412C66E0B/solimpex.app/www/anasayfa.html
+2015-05-04 16:30:16.300 solimpex[33347:1088551] Terminating since there is no system app.
