@@ -102,7 +102,7 @@ function createTables(tx) {
         "CREATE TABLE IF NOT EXISTS egitim_takvimi (_id REAL UNIQUE, tarih TEXT,yer Text,  konu Text)", []
     );
     tx.executeSql(
-        "CREATE TABLE IF NOT EXISTS bayiler (_id REAL UNIQUE, isimSoyisim TEXT,email Text,bolgeAdi Text,telefon1 Text,telefon2 Text,gsm Text,fax Text,adres Text)", []
+        "CREATE TABLE IF NOT EXISTS bayiler (_id REAL UNIQUE, isimSoyisim TEXT,bolgeAdi Text,email Text,telefon1 Text,telefon2 Text,gsm Text,fax Text,adres Text)", []
     );
     tx.executeSql(
         "CREATE TABLE IF NOT EXISTS versiyonKontrol (mobilVersion TEXT)", []
