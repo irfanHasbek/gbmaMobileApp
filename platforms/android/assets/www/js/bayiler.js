@@ -54,7 +54,7 @@ function tumBayiler(database)
             for (var i = 0; i < len; i++)
             {
                 var item = results.rows.item(i);
-                var listData = $('<p><strong>' + item.isimSoyisim + '</strong></p><p><span>Böge Adi: ' + item.bolgeAdi + '</span></p><p><span >-E-mail: ' + item.email +'</span></p><p><span>-Telefon1 :' + item.telefon1 + '</span></p><p><span>-Telefon2 :' + item.telefon2 + '</span></p><p><span>-GSM :' + item.gsm + '</span></p><p><span>-Fax :' + item.fax +'</span></p><p><span>-adres :' + item.adres + '</span></p><br>');
+                var listData = $('<p><strong>' + item.isimSoyisim + '</strong></p><p><span>Bölge Adi: ' + item.bolgeAdi + '</span></p><p><span >-E-mail: ' + item.email +'</span></p><p><span>-Telefon1 :' + item.telefon1 + '</span></p><p><span>-Telefon2 :' + item.telefon2 + '</span></p><p><span>-GSM :' + item.gsm + '</span></p><p><span>-Fax :' + item.fax +'</span></p><p><span>-adres :' + item.adres + '</span></p><br>');
                 $(".bayiler").append(listData);
             }
 

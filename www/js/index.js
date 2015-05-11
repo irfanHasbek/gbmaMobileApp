@@ -379,8 +379,8 @@ function addToEgitimTable(tx, task) {
 
 function addToBayilerTable(tx, task) {
     tx.executeSql(
-        'INSERT INTO bayiler (_id, isimSoyisim,bolgeAdi,email,telefon1,telefon2,gsm,fax,adres) values (?, ?,?,?,?,?,?,?)', [
-            task["_id"], task["isimSoyisim"],task["bolgeAdi"], task["email"], task["telefon1"], task["telefon2"], task["gsm"], task["fax"], task["adres"]
+        'INSERT INTO bayiler (_id,isimSoyisim,bolgeAdi,email,telefon1,telefon2,gsm,fax,adres) values (?, ?,?,?,?,?,?,?)', [
+            task["_id"], task["isimSoyisim"], task["bolgeAdi"], task["email"], task["telefon1"], task["telefon2"], task["gsm"], task["fax"], task["adres"]
         ]);
 
 }
