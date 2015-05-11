@@ -102,7 +102,7 @@ function createTables(tx) {
         "CREATE TABLE IF NOT EXISTS egitim_takvimi (_id REAL UNIQUE, tarih TEXT,yer Text,  konu Text)", []
     );
     tx.executeSql(
-        "CREATE TABLE IF NOT EXISTS bayiler (_id REAL UNIQUE, isimSoyisim TEXT,bolgeAdi Text,email Text,telefon1 Text,telefon2 Text,gsm Text,fax Text,adres Text)", []
+        "CREATE TABLE IF NOT EXISTS bayiler (_id REAL UNIQUE, isimSoyisim Text,bolgeAdi Text,email Text,telefon1 Text,telefon2 Text,gsm Text,fax Text,adres Text)", []
     );
     tx.executeSql(
         "CREATE TABLE IF NOT EXISTS versiyonKontrol (mobilVersion TEXT)", []
@@ -379,7 +379,7 @@ function addToEgitimTable(tx, task) {
 
 function addToBayilerTable(tx, task) {
     tx.executeSql(
-        'INSERT INTO bayiler (_id,isimSoyisim,bolgeAdi,email,telefon1,telefon2,gsm,fax,adres) values (?, ?,?,?,?,?,?,?)', [
+        'INSERT INTO bayiler (_id,isimSoyisim,bolgeAdi,email,telefon1,telefon2,gsm,fax,adres) values (?,?,?,?,?,?,?,?,?)', [
             task["_id"], task["isimSoyisim"], task["bolgeAdi"], task["email"], task["telefon1"], task["telefon2"], task["gsm"], task["fax"], task["adres"]
         ]);
 
