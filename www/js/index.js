@@ -265,7 +265,7 @@ function loadTables(tx) {
             for (var i = 0; i < result.data.length; i++) {
                 var obj = {
                     _id: (i + 1),
-                    bayiAdi: result.data[i].isimSoyisim,
+                    isimSoyisim: result.data[i].isimSoyisim,
                     bolgeAdi: result.data[i].bolgeAdi,
                     email: result.data[i].email,
                     telefon1: result.data[i].telefon1,

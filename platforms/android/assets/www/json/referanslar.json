@@ -1,0 +1,20 @@
+{
+   "data":[
+      {
+         "_id":"1",
+         "projeYeri":"Kuşadası / AYDIN",
+         "bayi":"MET MEKANİK",
+         "kullanilanUrun":"Solimpeks Solitherma SHCW-RJ 550H Hava Kaynaklı Isı Pompası",
+         "aciklama":"Aydın Kuşadası'nda bulunan otelde sıcak su ihtiyacı karşılanmıştır.",
+         "fotograflar":[{"link":"images/referans-1.JPG"},{"link":"images/referans-1.JPG"},{"link":"images/referans-1.JPG"}]
+      },
+      {
+         "_id":"2",
+         "projeYeri":"Selçuk / İZMİR",
+         "uygulayiciBayi":"GÖZDE ISI LTD. ŞTİ.",
+         "kullanilanUrun":"Solimpeks Solitherma SHCW-RJ 110 Hava Kaynaklı Isı Pompası",
+         "aciklama":"Selçuk merkezde bulunan 120m2 villanın radyatörle ısıtma ve kullanım sıcak su ihtiyacının karşılanması",
+         "fotograflar":[{"link":"images/referans-2.JPG"},{"link":"images/referans-2.JPG"},{"link":"images/referans-2.JPG"}]
+      }
+   ]
+}
