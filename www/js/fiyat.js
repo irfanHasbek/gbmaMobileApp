@@ -19,7 +19,7 @@ function showItem(database, id) {
                 var sayfa="fiyat";
                 $("#fiyatGrupAdi").text(item.fiyatGrubu);
                 for (var i = 0; i < icerik.length; i++) {
-                    var fiyat = $('<tr><td ><span style="color:#fff; font-family:"cardo";">' + icerik[i].dosyaAdi +'</span></td><td><a href="pdfGoruntule.html?sayfa='+sayfa+'&src='+icerik[i].dosyaLinki + '&id=' + id +'" style="color:#fff;"><img style="width:20px" src="images/pdf.png"  alt=""></a></td></tr>');
+                    var fiyat = $('<tr><td ><span style="color:#fff; font-family:"cardo";">' + icerik[i].dosyaAdi +'</span></td><td><a href="'+icerik[i].dosyaLinki + '" style="color:#fff;"><img style="width:20px" src="images/pdf.png"  alt=""></a></td></tr>');
                     $(".tblFiyat").append(fiyat);
                 }
 

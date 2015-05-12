@@ -41,6 +41,7 @@
     return self;
 }
 
+
 - (id)init
 {
     self = [super init];
@@ -122,12 +123,17 @@
 {
     return [super webView:theWebView didFailLoadWithError:error];
 }
-
+*/
 - (BOOL) webView:(UIWebView*)theWebView shouldStartLoadWithRequest:(NSURLRequest*)request navigationType:(UIWebViewNavigationType)navigationType
 {
-    return [super webView:theWebView shouldStartLoadWithRequest:request navigationType:navigationType];
+    NSURL *url = [request URL];
+    if ([[url scheme] isEqualToString:@"http"] || [[url scheme] isEqualToString:@"http"]) { [[UIApplication sharedApplication] openURL:url]; return NO;
+    }
+    else {
+        return [ super webView:theWebView shouldStartLoadWithRequest:request navigationType:navigationType ];
+    }
 }
-*/
+
 
 @end
 

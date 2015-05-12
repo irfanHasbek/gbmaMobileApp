@@ -19,7 +19,7 @@ function showItem(database, id) {
                 var sayfa="urunler";
                 $("#urunGrubu").text(item.urunGrubu);
                 for (var i = 0; i < icerik.length; i++) {
-                    var urun = $('<tr><td ><span style="color:#fff">' + icerik[i].dosyaAdi +'</span></td><td><a href="pdfGoruntule.html?src='+icerik[i].dosyaLinki + '&id=' + id +'&sayfa='+sayfa+'" style="color:#fff;"><img style="width:20px" src="images/pdf.png"  alt=""></a></td></tr>');
+                    var urun = $('<tr><td ><span style="color:#fff">' + icerik[i].dosyaAdi +'</span></td><td><a href="'+icerik[i].dosyaLinki + '" style="color:#fff;"><img style="width:20px" src="images/pdf.png"  alt=""></a></td></tr>');
                     $(".tblUrun").append(urun);
                 }
             });
