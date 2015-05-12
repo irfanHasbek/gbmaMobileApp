@@ -1,1 +1,0 @@
-var config={firmaKodu:"659865265",webServiceHost:"http://gbma.mavikentbilisim.com/"};
