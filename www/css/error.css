@@ -77,84 +77,84 @@ a
     animation: main-tetx-animation 2s 1 ease-out;
 }
 @-webkit-keyframes main-tetx-animation
-{ 
-	0%
-	{
-	    top: 0px;
-	    opacity: 0;
-	}
-	20%
-	{
-	    opacity: 0
-	}
-	100%
-	{
-	    top: -90px
-	}
+{
+    0%
+    {
+        top: 0px;
+        opacity: 0;
+    }
+    20%
+    {
+        opacity: 0
+    }
+    100%
+    {
+        top: -90px
+    }
 }
 @-moz-keyframes main-tetx-animation
-{ 
-	0%
-	{
-	    top: 0px;
-	    opacity: 0;
-	}
-	20%
-	{
-	    opacity: 0
-	}
-	100%
-	{
-	    top: -90px
-	}
+{
+    0%
+    {
+        top: 0px;
+        opacity: 0;
+    }
+    20%
+    {
+        opacity: 0
+    }
+    100%
+    {
+        top: -90px
+    }
 }
 @-o-keyframes main-tetx-animation
-{ 
-	0%
-	{
-	    top: 0px;
-	    opacity: 0;
-	}
-	20%
-	{
-	    opacity: 0
-	}
-	100%
-	{
-	    top: -90px
-	}
+{
+    0%
+    {
+        top: 0px;
+        opacity: 0;
+    }
+    20%
+    {
+        opacity: 0
+    }
+    100%
+    {
+        top: -90px
+    }
 }
 @-ms-keyframes main-tetx-animation
-{ 
-	0%
-	{
-	    top: 0px;
-	    opacity: 0;
-	}
-	20%
-	{
-	    opacity: 0
-	}
-	100%
-	{
-	    top: -90px
-	}
+{
+    0%
+    {
+        top: 0px;
+        opacity: 0;
+    }
+    20%
+    {
+        opacity: 0
+    }
+    100%
+    {
+        top: -90px
+    }
 }
 @keyframes main-tetx-animation
-{ 
-	0%
-	{
-	    top: 0px;
-	    opacity: 0;
-	}
-	20%
-	{
-	    opacity: 0
-	}
-	100%
-	{
-	    top: -90px
-	}
+{
+    0%
+    {
+        top: 0px;
+        opacity: 0;
+    }
+    20%
+    {
+        opacity: 0
+    }
+    100%
+    {
+        top: -90px
+    }
 }
 .page-content
 {
@@ -166,82 +166,82 @@ a
     animation: page-content-animation 5s 1 ease-out;
 }
 @-webkit-keyframes page-content-animation
-{ 
-	0%
-	{
-	    top: 0px;
-	    opacity: 0;
-	}
-	20%
-	{
-	    opacity: 0
-	}
-	100%
-	{
-	    opacity: 1
-	}
+{
+    0%
+    {
+        top: 0px;
+        opacity: 0;
+    }
+    20%
+    {
+        opacity: 0
+    }
+    100%
+    {
+        opacity: 1
+    }
 }
 @-moz-keyframes page-content-animation
-{ 
-	0%
-	{
-	    top: 0px;
-	    opacity: 0;
-	}
-	20%
-	{
-	    opacity: 0
-	}
-	100%
-	{
-	    opacity: 1
-	}
+{
+    0%
+    {
+        top: 0px;
+        opacity: 0;
+    }
+    20%
+    {
+        opacity: 0
+    }
+    100%
+    {
+        opacity: 1
+    }
 }
 @-o-keyframes page-content-animation
-{ 
-	0%
-	{
-	    top: 0px;
-	    opacity: 0;
-	}
-	20%
-	{
-	    opacity: 0
-	}
-	100%
-	{
-	    opacity: 1
-	}
+{
+    0%
+    {
+        top: 0px;
+        opacity: 0;
+    }
+    20%
+    {
+        opacity: 0
+    }
+    100%
+    {
+        opacity: 1
+    }
 }
 @-ms-keyframes page-content-animation
-{ 
-	0%
-	{
-	    top: 0px;
-	    opacity: 0;
-	}
-	20%
-	{
-	    opacity: 0
-	}
-	100%
-	{
-	    opacity: 1
-	}
+{
+    0%
+    {
+        top: 0px;
+        opacity: 0;
+    }
+    20%
+    {
+        opacity: 0
+    }
+    100%
+    {
+        opacity: 1
+    }
 }
 @keyframes page-content-animation
-{ 
-	0%
-	{
-	    top: 0px;
-	    opacity: 0;
-	}
-	20%
-	{
-	    opacity: 0
-	}
-	100%
-	{
-	    opacity: 1
-	}
+{
+    0%
+    {
+        top: 0px;
+        opacity: 0;
+    }
+    20%
+    {
+        opacity: 0
+    }
+    100%
+    {
+        opacity: 1
+    }
 }
